@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: |cFFFFFFFFDane|r|cffa335eeBrain|r|cFFFFFFFFUI
+## Notes: Makes changes to the default actionbars and cc indicator and hides Hotkeys. Adds arena numbers to nameplates and colours unitframe healthbar
+## Author: BELLANTE
+## SavedVariablesPerCharacter: DBHideHotKeys_HK_Hidden, DBHideHotKeys_MN_Hidden
+
+DaneBrain.lua
+HideMicroMenu.lua
+HideBags.lua
+HideHotKeys.lua
+ClassColorHealthBar.lua
+ArenaNumbers.lua
